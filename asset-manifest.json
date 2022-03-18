@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/InstAchef-recipe-react/static/css/main.7450ff2d.css",
+    "main.js": "/InstAchef-recipe-react/static/js/main.b4dca2c0.js",
+    "static/js/787.08e206e6.chunk.js": "/InstAchef-recipe-react/static/js/787.08e206e6.chunk.js",
+    "static/media/logo.png": "/InstAchef-recipe-react/static/media/logo.9ae3e6038bd0a92621b4.png",
+    "index.html": "/InstAchef-recipe-react/index.html",
+    "main.7450ff2d.css.map": "/InstAchef-recipe-react/static/css/main.7450ff2d.css.map",
+    "main.b4dca2c0.js.map": "/InstAchef-recipe-react/static/js/main.b4dca2c0.js.map",
+    "787.08e206e6.chunk.js.map": "/InstAchef-recipe-react/static/js/787.08e206e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7450ff2d.css",
+    "static/js/main.b4dca2c0.js"
+  ]
+}
